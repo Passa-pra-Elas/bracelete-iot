@@ -44,6 +44,11 @@ Algumas bibliotecas que devem estar em seu sistema antes de compilar o código:
 |[PubSubClient.h](https://docs.arduino.cc/libraries/pubsubclient)| Permite que o arduino mande e receba mensagens utilizando o protocolo MQTT |
 |[TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus)| Permite interagir com o módulo GPS e trazer as informações obtidas por ele para enviar pelo protocolo MQTT |
 
+Modelo Físico do projeto:
+![modelo_físico](https://github.com/Passa-pra-Elas/bracelete-iot/blob/main/esp32-modelofisico.png?raw=true)
+
+Arquitetura Completa do Projeto:
+![arquitetura](https://github.com/Passa-pra-Elas/bracelete-iot/blob/main/arquitetura%20do%20projeto.png?raw=true)
 
 
 ## 📦 Funcionalidades
