@@ -102,6 +102,10 @@ Transmite os dados de localização em tempo real para endpoints HTTP, alimentan
 
 **Pronto sistema montado!**
 
+Você pode usar:
+1. o simulador do Wokwi (link acima do README) para visualizar o projeto funcionando, ou então;
+2. utilizar o código e implementar essa solução de forma física com um arduino ou ESP32
+
 > [!NOTE]
 > é importante que você mude as variáveis **SSID**, **PASSWORD** e de **BROKER_MQTT** do arquivo <b>sketch.ino</b>, para que fique de acordo com o seu ambiente desejado. Os valores encontrados nesse repositório, no sketch.ino referem-se **nesse projeto em específico**
 ---
