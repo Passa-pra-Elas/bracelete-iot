@@ -13,6 +13,7 @@ Este projeto foi desenvolvido pelo Nexus Group para a nova plataforma **Passa pr
 
 Esse dispositivo tem a capacidade de **trazer as coordenadas geográficas de cada jogadora em relação ao campo** , sendo a latitude e longitude da jogadoras durante a partida, em **tempo real**.
 
+Link do repositório: https://github.com/Passa-pra-Elas/bracelete-iot<br>
 Link para o Wokwi: https://wokwi.com/projects/442169258263160833<br>
 Link para o vídeo do projeto: https://youtu.be/0-A1nG2uKU4<br>
 Link para a demonstração do projeto (Sprint 04): https://youtu.be/ttR5HkOEd8w<br>
